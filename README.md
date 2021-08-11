@@ -1,14 +1,15 @@
 # COVID-19 Vaccine Distribution
-Group members: [Arthur Gao](https://github.com/arthurgao09), [Anthony Mena](https://github.com/antmena), [Michael Lo](https://github.com/lomichael)
+Group members: [Arthur Gao](https://github.com/arthurgao09), [Anthony Mena](https://github.com/antmena), [Michael Lo](https://github.com/lomichael), [Adrian Carrillo](https://github.com/acarrillo889)
 
 ## Why is it important or interesting to you?
     
 As we head back to school for the fall quarter, we needed a method to keep track of tasks on our plate. We decided to make a todo list program to increase our productivity.
 
 ## What languages/tools/technologies do you plan to use?
-    * C/C++
-    * CMake
-    * googletest
+* C/C++
+* CMake
+* googletest
+
 ## What will be the input/output of your project?
 
 The input is people who will be vaccinated for COVID-19. The output is the person who's next in line for the vaccine. 
