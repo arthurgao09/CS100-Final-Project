@@ -3,7 +3,7 @@ Group members: [Arthur Gao](https://github.com/arthurgao09), [Anthony Mena](http
 
 ## Why is it important or interesting to you?
     
-As we head back to school for the fall quarter, we needed a method to keep track of tasks on our plate. We decided to make a todo list program to increase our productivity.
+Arthur's COVID-19 lab involvement brings up the pressing concern of who warrants vaccination before others. We created this Distribution program to determine, based on three factors, who should receive the vaccination.
 
 ## What languages/tools/technologies do you plan to use?
 * C/C++
